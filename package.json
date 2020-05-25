@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker-mnb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblack1190/employee-tracker-mnb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mblack1190/employee-tracker-mnb/issues"
+  },
+  "homepage": "https://github.com/mblack1190/employee-tracker-mnb#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
